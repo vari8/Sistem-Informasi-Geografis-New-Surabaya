@@ -13,6 +13,12 @@ Setelah user memilih salah satu marker system akan memunculkan popup menu untuk 
 
 Terdapat Juga fitur cari lokasi yang berfungsi untuk mempermudah user untuk mencari sebuah lokasi yang diinginkannya sehingga saat memasukkan data user dapat memastikan data yang dimasukkan sudah benar sehingga dapat memperkecil kesalahan user saat memasukkan data.
 
+#### Contoh Tampilan Sistem
+Home
+![Home](https://github.com/vari8/Sistem-Informasi-Geografis-New-Surabaya/blob/master/screenshots/home%20-%20info%20window.png)
+
+Form Pendataan Permasalahan
+![Form Pendataan](https://github.com/vari8/Sistem-Informasi-Geografis-New-Surabaya/blob/master/screenshots/form%20pendataan.png)
 
 ### Fitur
 - Sign Up
